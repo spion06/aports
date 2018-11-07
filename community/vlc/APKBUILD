@@ -58,6 +58,7 @@ makedepends="
 	flac-dev
 	flex
 	freetype-dev
+        gnutls-dev
 	gtk+3.0-dev
 	libbluray-dev>=0.2.1 libbluray-dev<20100000
 	libavc1394-dev
